@@ -1,0 +1,57 @@
+@import "https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700,900";@import "https://fonts.googleapis.com/css?family=VT323&display=swap";@import "https://unpkg.com/primer/build/build.css";
+.highlight{
+    width:100%;
+    overflow:auto;
+    background:#fff}
+.highlight .c{
+    color:#998;
+    font-style:italic}
+.highlight .err{
+    color:#a61717;
+    background-color:
+        #e3d2d2}
+.highlight .k{
+    font-weight:700}
+.highlight .o{
+    font-weight:700}
+.highlight .cm{
+    color:#998;
+    font-style:italic}
+.highlight .cp{
+    color:#999;
+    font-weight:700}
+.highlight .c1{
+    color:#998;
+    font-style:italic}
+.highlight .cs{
+    color:#999;
+    font-weight:700;
+    font-style:italic}
+.highlight .gd{
+    color:#000;
+    background-color:#fdd}
+.highlight .gd .x{
+    color:#000;
+    background-color:#faa}
+.highlight .ge{
+    font-style:italic}
+.highlight .gr{
+    color:#a00}
+.highlight .gh{
+    color:#999}
+.highlight .gi{
+    color:#000;
+    background-color:#dfd}
+.highlight .gi .x{
+    color:#000;
+    background-color:#afa}
+.highlight .go{
+    color:#888}
+.highlight .gp{
+    color:#555}
+.highlight .gs{font-weight:700}.highlight .gu{color:#aaa}.highlight .gt{color:#a00}.highlight .kc{font-weight:700}.highlight .kd{font-weight:700}.highlight .kp{font-weight:700}.highlight .kr{font-weight:700}.highlight .kt{color:#458;font-weight:700}.highlight .m{color:#099}.highlight .s{color:#d14}.highlight .na{color:teal}.highlight .nb{color:#0086b3}.highlight .nc{color:#458;font-weight:700}.highlight .no{color:teal}.highlight .ni{color:purple}.highlight .ne{color:#900;font-weight:700}.highlight .nf{color:#900;font-weight:700}.highlight .nn{color:#555}.highlight .nt{color:navy}.highlight .nv{color:teal}.highlight .ow{font-weight:700}.highlight .w{color:#bbb}.highlight .mf{color:#099}.highlight .mh{color:#099}.highlight .mi{color:#099}.highlight .mo{color:#099}.highlight .sb{color:#d14}.highlight .sc{color:#d14}.highlight .sd{color:#d14}.highlight .s2{color:#d14}.highlight .se{color:#d14}.highlight .sh{color:#d14}.highlight .si{color:#d14}.highlight .sx{color:#d14}.highlight .sr{color:#009926}.highlight .s1{color:#d14}.highlight .ss{color:#990073}.highlight .bp{color:#999}.highlight .vc{color:teal}.highlight .vg{color:teal}.highlight .vi{color:teal}.highlight .il{color:#099}.highlight .lineno{-webkit-user-select:none;-moz-user-select:none;-o-user-select:none}.lineno::-moz-selection{background-color:transparent}.lineno::selection{background-color:transparent}body{font-family:avenir,nunito sans,sans-serif}.github-component{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol!important}.repo-language-color{filter:brightness(125%)!important;border-radius:50%;display:inline-block;height:12px;position:relative;top:2px;width:12px}.content-text{font-size:1.2rem}.content-text #time-passed{font-family:vt323,monospace;font-size:1.4rem}.emoji{width:18px;height:auto;vertical-align:middle}.article h1,.article h2,.article h3,.article h4,.article .highlight{margin-bottom:16px}.article blockquote{color:#6a737d;border-left:2px solid #959da5;padding-left:16px;margin-bottom:16px}.article ul,.article ol{padding-left:32px;margin-bottom:16px}.article li ul,.article li ol{padding-left:16px;margin-bottom:0}.min-height-full{min-height:100vh}.bg-dark{background:#000!important}.bg-blue{background:#3e64ff!important}.bg-baby-blue{background:#5edfff!important}.bg-light-blue{background:#ecfcff!important}.text-light-blue{color:#ecfcff!important}.rounded-3{border-radius:10px!important}.card-shadow{box-shadow:8px 10px 8px rgba(0,0,0,.1)}.card-shadow:hover{box-shadow:2px 2px 1px rgba(0,0,0,.1)}
+.book-cover{height:300px}
+
+.bg-dark {
+    background: #0366d6!important;
+}

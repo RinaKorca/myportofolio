@@ -1,2 +1,2 @@
-# myportofolio
-A small project made with Html Css and Boostrap
+# MyPortofolio
+My first portofolio project made with Html Css Boostrap
